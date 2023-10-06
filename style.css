@@ -14,9 +14,8 @@ p{
 img{
     width: 300px;
     height: 300px;
-    margin: 40px;
     margin-right: 80px !important;
-    margin-left: 40px !important;
+    margin-left: 200px !important;
     border: Spx solid black;
 }
 .cabecalho{
@@ -25,6 +24,19 @@ img{
 
 }
 .logoimg{
-    width: 50px;
-    height: 50px;
+    width: 150px;
+    height: 140px;
+    margin-left: 20px;
+} 
+.listacabecalho{
+    display: flex;
+    margin-left: 200px;
+    margin-top: 40px;
+}
+.itemlistacabecalho{
+    list-style: none;
+     color: blue;
+     text-transform: lowercase;
+    font-size: 30px;
+    padding-left: 10px ;
 }
