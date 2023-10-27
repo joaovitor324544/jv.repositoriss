@@ -16,7 +16,7 @@ img{
     height: 300px;
     margin-right: 80px !important;
     margin-left: 200px !important;
-    border: Spx solid black;
+    
 }
 .cabecalho{
     background-color: brown;
@@ -34,9 +34,15 @@ img{
     margin-top: 40px;
 }
 .itemlistacabecalho{
-    list-style: none;
+     list-style: none;
      color: blue;
      text-transform: lowercase;
-    font-size: 30px;
-    padding-left: 10px ;
+     font-size: 30px;
+     padding-left: 10px ;
+}
+img{
+    border: 5px groove red;
+}
+p{
+  border: 3px dotted red;  
 }
