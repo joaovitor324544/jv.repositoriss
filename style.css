@@ -40,8 +40,8 @@ img{
      padding-left: 10px ;
 }
 img{
-    border: 5px groove red;
+    border: 5px groove;
 }
 p{
-  border: 3px dotted red;  
+  border: 3px dotted;  
 }
